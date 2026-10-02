@@ -1,0 +1,33 @@
+body 
+{
+   background-color:#EAF4FF;
+}
+.main{
+   height:480px;
+   width: 800px;
+   border-radius: 10px;
+   margin-left: 350px;
+   margin-top: 150px;
+   background-color:#D3F5F5;
+}
+.img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover; 
+   margin-top: 150px;
+   margin-left: 50px;
+}
+.box{
+   height:40px ;
+   width: 230px;
+   border-radius:5px;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+}
+.div{
+   height: 200px;
+   width: 200px;
+   border-radius: 50%;
+}

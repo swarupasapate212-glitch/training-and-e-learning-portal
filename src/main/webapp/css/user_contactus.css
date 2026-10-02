@@ -1,0 +1,104 @@
+body {
+      
+      font-family: Arial;
+      background: #f7f9fc;
+      color: #333;
+    }
+    .h1 {
+       height:300px;
+     width:auto;
+   background-color:#2C5F9E;
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+      margin:0;
+    }
+    .hero h1 {
+      margin-bottom: 10px;
+      font-size: 40px;
+    }
+    .hero p {
+      font-size: 18px;
+      width: 700px;
+      margin: auto;
+    }
+    .container {
+     
+      width: auto;
+      margin-top:0;
+      padding: 50px 20px;
+      display: grid;
+      gap: 40px;
+    }
+    .contact-info {
+      background: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px ;
+    }
+    
+     .contact-form
+     {
+     height:450px;
+     width:auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px ;
+    }
+    h2 {
+      color: #2b6cb0;
+     
+    }
+    .info-item {
+      margin-bottom: 20px;
+    }
+    .info-item strong {
+      display: block;
+      margin-bottom: 5px;
+    }
+    .form {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 15px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      font-size: 14px;
+    }
+    form textarea 
+     {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 15px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      font-size: 14px;
+    }
+    
+    form textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+    .btn {
+      background: #2b6cb0;
+      color: #fff;
+      border: none;
+      padding: 12px 25px;
+      border-radius: 5px;
+      font-size: 16px;
+      
+    }
+    form button:hover {
+      background: #2c5282;
+    }
+    
+    .box1
+    {
+   height:40px ;
+   width: 230px;
+   border-radius:5px;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   margin-left: 10px;
+}

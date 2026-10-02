@@ -1,0 +1,21 @@
+
+body{
+background-color: #D0F5F5;
+}
+.h2{
+	font-size: 35px;
+	font-family: Algerian;
+	color:red;
+}
+.title{
+	border: 1px solid black;
+	height:80px;
+	width: 120px;
+	background-color: #D0F5F5;
+	border: none;
+	text-align: center;
+	border-radius: 5px;
+}
+.col-sm-6{
+	background-color: white;
+}

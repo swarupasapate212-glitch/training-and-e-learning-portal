@@ -1,0 +1,47 @@
+
+
+body
+{
+	background-color: #D0F5F5;
+}
+
+
+
+.img{
+	height:28px;
+	width: 38px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.div{
+	font-size: 15px;
+	font-family: Algerian;
+}
+.div2{
+	font-family:Arial Black;
+	font-size: 45px;
+	margin-left: 20px;
+}
+.select{
+	margin-left: 30px;
+
+}
+.in{
+	height: 30px;
+	width: 100px;
+	border-radius: 5px;
+	margin-left: 30px;
+	background-color:#42E3BF;
+	
+}
+a:hover{
+	background-color: none;
+}
+
+.box1 
+{
+	height: 300px;
+	width: 300px;
+	margin-left:50px;
+	margin-top: 50px;
+}

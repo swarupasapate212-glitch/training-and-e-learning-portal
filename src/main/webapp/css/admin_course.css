@@ -1,0 +1,30 @@
+
+body 
+{
+	background-color:whitesmoke ;
+}
+
+.box 
+{
+	height: auto;
+	width: 600px;
+	background-color: white;
+	margin: 50px 0 0 500px;
+	padding: 30px;
+    border-radius: 10px;
+}
+
+.text 
+{
+	height: 35px;
+	width: 100%;
+    border-radius: 10px;
+}
+.btn 
+{
+	background-color: #123559;
+	color: white;
+	height: 35px;
+	width: 100px;
+	margin :20px 0 0 0;
+}

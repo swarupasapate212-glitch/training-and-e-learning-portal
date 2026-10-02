@@ -1,0 +1,49 @@
+body
+{
+background-color: #D0F5F5;
+}
+.name{
+	font-size:25px;
+	font-family: Arial Black;
+	margin-top: 40px;
+    margin-left: 50px;
+}
+.search
+{
+	margin-top: 15px;
+	height: 20px;
+	width: 400px;
+	color: black;
+}
+.info
+{
+	height: 650px;
+	width:700px;
+	border-radius: 20px;
+	margin-left: 30px;
+	background-color: #42E3BF;
+	margin-top: 30px;
+}
+.para
+{
+	margin-left:20px ;
+	font-size: 28px;
+	color:white;
+}
+.name1
+{
+	font-size:35px;
+	font-family: Arial Black;
+	margin-top: 60px;
+    margin-left: 80px;
+}
+.para1{
+	font-size: 15px;
+	margin-left: 20px;
+}
+.img1{
+	height: 300px;
+	width:auto;
+	margin-left: 150px;
+}
+

@@ -1,0 +1,45 @@
+body{
+background-color: #D0F5F5;
+}
+
+
+.box{
+   height: 750px;
+   width: 900px;
+   background-color:#CCF0CC;
+  margin-left: 250px;
+   border-radius: 15px;
+}
+.box1{
+	height:250px;
+	width: 900px;
+	background-color:#DEDE6D;
+	border-radius: 15px;
+}
+.h{
+	font-family:Algerian ;
+	font-size: 30px;
+   margin-top:40px ;
+
+	margin-left: 50px;
+}
+.img{
+	margin-top: 5px;
+	margin-left: 70px;
+	height: 250px;
+	width: 250px;
+}
+
+.stars
+{
+   font-size:80px; 
+   color:gold;
+   margin-left: 50px;
+}
+.btn{
+	background-color: #123559;
+	color: white;
+	height: 35px;
+	width: 100px;
+	margin :20px 0 0 380px;
+}

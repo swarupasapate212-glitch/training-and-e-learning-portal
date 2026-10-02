@@ -1,0 +1,26 @@
+body{
+	background-color: #D0F5F5;
+}
+.lable{
+	font-family: Algerian;
+	font-size: 25px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.box{
+	height:50px;
+	width: 380px;
+	border-radius:15px;
+	background-color: #D1CECB;
+}
+.progress{
+	height: 30PX;
+	width: 380px;
+}
+.btn{
+	background-color: #123559;
+	color: white;
+	height: 50px;
+	width: 100px;
+	margin :20px 0 0 0;
+}

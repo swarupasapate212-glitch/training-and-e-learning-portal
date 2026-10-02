@@ -1,0 +1,35 @@
+body 
+{
+   background-color:#EAF4FF;
+}
+.div{
+   height:500px ;
+   width: 700px;
+   background-color: whitesmoke;
+   border-radius:10px;
+   margin-left: 300px;
+   margin-top: 80px;
+}
+.in{
+    height:40px ;
+   width: 90%;
+   border-radius:5px;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   margin-left: 30px;
+   
+}
+.img{
+   margin-left: 250px;
+}
+.in1{
+    height:40px ;
+   width: 90%;
+   border-radius:5px;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+
+   
+}
